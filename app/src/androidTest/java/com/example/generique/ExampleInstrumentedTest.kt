@@ -1,4 +1,4 @@
-package com.example.gnrique
+package com.example.generique
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

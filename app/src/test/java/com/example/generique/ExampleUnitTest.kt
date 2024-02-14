@@ -1,4 +1,4 @@
-package com.example.gnrique
+package com.example.generique
 
 import org.junit.Test
 
